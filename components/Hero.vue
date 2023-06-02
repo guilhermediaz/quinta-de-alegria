@@ -28,7 +28,7 @@ export default {
     <div class="mx-auto max-w-7xl lg:grid lg:grid-cols-12 lg:gap-x-8 lg:px-8">
       <div class="px-6 pb-24 pt-10 lg:col-span-7 xl:col-span-6 lg:px-0 lg:pb-56 lg:pt-48 sm:pb-32">
         <div class="mx-auto max-w-2xl lg:mx-0">
-          <img class="h-11" src="https://tailwindui.com/img/logos/mark.svg?color=indigo&amp;shade=600" alt="Your Company">
+          <!-- <img class="h-2" src="~/assets/images/quintal_logo.svg" alt="Your Company"> -->
           <div class="hidden lg:mt-16 sm:mt-32 sm:flex">
             <div class="relative rounded-full px-3 py-1 text-sm leading-6 text-gray-500 ring-1 ring-gray-900/10 hover:ring-gray-900/20">
               Anim aute id magna aliqua ad ad non deserunt sunt. <a href="#" class="whitespace-nowrap font-semibold text-indigo-600"><span class="absolute inset-0" aria-hidden="true" />Read more <span aria-hidden="true">&rarr;</span></a>

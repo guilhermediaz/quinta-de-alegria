@@ -15,6 +15,8 @@ export default defineNuxtConfig({
     '@nuxtjs/color-mode',
     '@vite-pwa/nuxt',
     'nuxt-icon',
+    'nuxt-swiper',
+
   ],
 
   experimental: {
