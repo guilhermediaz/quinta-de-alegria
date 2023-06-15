@@ -93,10 +93,12 @@ const navigation = [
 ]
 
 const images = ref([
-  'http://quintaldealegria.com.br/wp/wp-content/uploads/2018/05/25299420_1844628582244851_383331152178552603_n.jpg',
-  'http://quintaldealegria.com.br/wp/wp-content/uploads/2018/05/25299213_1844627138911662_7560520250905591908_n.jpg',
-  'http://quintaldealegria.com.br/wp/wp-content/uploads/2018/05/25299167_1844630405578002_62103332903061137_n.jpg',
-  'http://quintaldealegria.com.br/wp/wp-content/uploads/2018/05/28872791_1949532325087809_4329065563144098709_n.jpg',
+  '/assets/images/quinta-de-alegria-1.jpg',
+  '/assets/images/quinta-de-alegria-02.jpg',
+  '/assets/images/quinta-de-alegria-03.jpg',
+  '/assets/images/quinta-de-alegria-04.jpg',
+  '/assets/images/quinta-de-alegria-07.jpg',
+  '/assets/images/quinta-de-alegria-08.jpg',
   // adicione mais links de imagens aqui...
 ])
 

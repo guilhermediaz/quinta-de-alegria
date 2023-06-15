@@ -17,17 +17,17 @@ Reviva a magia da infância!          </h2>
         </div>
         <div class="flex flex-wrap items-start justify-end gap-6 lg:contents sm:gap-8">
           <div class="w-0 flex-auto lg:ml-auto lg:w-auto lg:flex-none lg:self-end">
-            <img src="http://quintaldealegria.com.br/wp/wp-content/uploads/2019/09/b0b6b41e-ef62-495a-b92e-2e3b3a41515d.jpg" alt="" class="aspect-[7/5] max-w-none w-[37rem] rounded-2xl bg-gray-50 object-cover">
+            <img src="/assets/images/quinta-de-alegria-02.jpg" alt="" class="aspect-[7/5] max-w-none w-[37rem] rounded-2xl bg-gray-50 object-cover">
           </div>
           <div class="contents lg:col-span-2 lg:col-end-2 lg:ml-auto lg:w-[37rem] lg:flex lg:items-start lg:justify-end lg:gap-x-8">
             <div class="order-first w-64 flex flex-none self-end justify-end lg:w-auto">
-              <img src="http://quintaldealegria.com.br/wp/wp-content/uploads/2019/09/203fe791-e2e3-44c4-9a4e-f2c2eb0cf1a8.jpg" alt="" class="aspect-[4/3] max-w-none w-[24rem] flex-none rounded-2xl bg-gray-50 object-cover">
+              <img src="/assets/images/quinta-de-alegria-04.jpg" alt="" class="aspect-[4/3] max-w-none w-[24rem] flex-none rounded-2xl bg-gray-50 object-cover">
             </div>
             <div class="w-96 flex flex-auto justify-end lg:w-auto lg:flex-none">
-              <img src="http://quintaldealegria.com.br/wp/wp-content/uploads/2019/09/45b0e68f-428e-40c8-b40f-90e66c3dcafb.jpg" alt="" class="aspect-[7/5] max-w-none w-[37rem] flex-none rounded-2xl bg-gray-50 object-cover">
+              <img src="/assets/images/quinta-de-alegria-08.jpg" alt="" class="aspect-[7/5] max-w-none w-[37rem] flex-none rounded-2xl bg-gray-50 object-cover">
             </div>
             <div class="hidden sm:block lg:w-auto sm:w-0 sm:flex-auto lg:flex-none">
-              <img src="http://quintaldealegria.com.br/wp/wp-content/uploads/2019/09/a737f2c2-7293-4621-8229-fddf1ffc1675.jpg" alt="" class="aspect-[4/3] max-w-none w-[24rem] rounded-2xl bg-gray-50 object-cover">
+              <img src="/assets/images/quinta-de-alegria-01.jpg" alt="" class="aspect-[4/3] max-w-none w-[24rem] rounded-2xl bg-gray-50 object-cover">
             </div>
           </div>
         </div>
