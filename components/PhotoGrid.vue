@@ -3,16 +3,16 @@
     <div class="mx-auto max-w-7xl px-6 lg:flex lg:px-8">
       <div class="grid grid-cols-1 mx-auto max-w-2xl gap-x-12 gap-y-16 lg:mx-0 lg:max-w-none lg:min-w-full lg:flex-none lg:gap-y-8">
         <div class="lg:col-end-1 lg:max-w-lg lg:w-full lg:pb-8">
-          <h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
-Nosso espaço.          </h2>
+          <h2 class="text-3xl font-black tracking-tight text-gray-900 sm:text-4xl">
+Reviva a magia da infância!          </h2>
           <p class="mt-6 text-xl leading-8 text-gray-600">
-            Quasi est quaerat. Sit molestiae et. Provident ad dolorem occaecati eos iste. Soluta rerum quidem minus ut molestiae velit error quod. Excepturi quidem expedita molestias quas.
+            O Quintal de Alegria, uma casa de festas inovadora, convida a uma viagem nostálgica, resgatando alegrias e tradições da infância em um ambiente repleto de atividades lúdicas e diversão.
           </p>
           <p class="mt-6 text-base leading-7 text-gray-600">
-            Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt amet fugiat veniam occaecat fugiat. Quasi aperiam sit non sit neque reprehenderit.
+            No Quintal de Alegria, cada festa é única e moldada de acordo com os desejos do aniversariante. Após a família detalhar suas preferências em um formulário, nossa equipe dedicada organiza um evento inesquecível, repleto de atividades variadas que prometem surpreender e encantar todos os convidados.
           </p>
           <div class="mt-10 flex">
-            <a href="#" class="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline-2 focus-visible:outline-indigo-600 focus-visible:outline-offset-2 focus-visible:outline">Join our team <span aria-hidden="true">&rarr;</span></a>
+            <a href="#" class="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline-2 focus-visible:outline-indigo-600 focus-visible:outline-offset-2 focus-visible:outline">Faça seu orçamento! <span aria-hidden="true">&rarr;</span></a>
           </div>
         </div>
         <div class="flex flex-wrap items-start justify-end gap-6 lg:contents sm:gap-8">

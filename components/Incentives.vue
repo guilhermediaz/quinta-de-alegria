@@ -6,12 +6,12 @@
         <div v-for="perk in perks" :key="perk.name" class="sm:flex">
           <div class="sm:flex-shrink-0">
             <div class="flow-root">
-              <Icon :class="'h-24 w-28  text-indigo-700'" :name="perk.imageSrc" />
+              <Icon :class="`h-24 w-28 ${perk.color}`" :name="perk.imageSrc" />
             </div>
           </div>
           <div class="mt-3 sm:ml-3 sm:mt-0">
-            <h3 class="text-sm font-medium text-gray-900">{{ perk.name }}</h3>
-            <p class="mt-2 text-sm text-gray-500">{{ perk.description }}</p>
+            <h3 class="text-lg font-bold text-gray-900">{{ perk.name }}</h3>
+            <p class="mt-2 text-base text-gray-500">{{ perk.description }}</p>
           </div>
         </div>
       </div>
@@ -22,28 +22,29 @@
 <script setup>
 const perks = [
   {
-    name: 'Free delivery',
-    imageSrc: 'ic:baseline-add-reaction',
-    description:
-      "Order now and you'll get delivery absolutely free. Well, it's not actually free, we just price it into the products. Someone's paying for it, and it's not us.",
+    name: 'Arvorismo',
+    imageSrc: 'zondicons:location-park',
+    color: 'text-green-500',
+    description: "Experimente a emoção do arvorismo! Nossa atividade de arvorismo é segura, divertida e perfeita para liberar a energia das crianças.",
   },
   {
-    name: '10-year warranty',
-    imageSrc: 'ic:baseline-cake',
-    description:
-      "We have a 10 year warranty with every product that you purchase, whether thats a new pen or organizer, you can be sure we'll stand behind it.",
+    name: 'Atividades Lúdicas',
+    imageSrc: 'ic:baseline-diversity-3',
+    color: 'text-blue-500',
+    description: "Redescubra a alegria das brincadeiras clássicas em mais de 600 metros quadrados repletos de música, teatro, fantoches, contação de histórias e uma fantástica brinquedoteca.",
   },
   {
-    name: 'Exchanges',
-    imageSrc: 'ic:outline-portable-wifi-off',
-    description:
-      'We understand that when your product arrives you might not particularly like it, or you ordered the wrong thing. Conditions apply here.',
+    name: 'Experiência Personalizada',
+    imageSrc: 'mdi:puzzle',
+    color: 'text-red-500',
+    description: "Cada festa é única e personalizada de acordo com os desejos do aniversariante. Compartilhe seus gostos e preferências e deixe nossa equipe planejar um evento inesquecível.",
   },
   {
-    name: 'For the planet',
-    imageSrc: 'ic:baseline-face-4',
-    description:
-      "Like you, we love the planet, and so we've pledged 1% of all sales to the preservation and restoration of the natural environment.",
+    name: 'Conexão com o Passado',
+    imageSrc: 'bi:watch',
+    color: 'text-orange-500',
+    description: "Vivencie uma conexão profunda com o passado através de nossas atividades que celebram a cultura popular e as brincadeiras tradicionais da nossa infância.",
   },
 ]
+
 </script>
